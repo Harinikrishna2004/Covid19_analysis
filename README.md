@@ -1,10 +1,12 @@
 # Covid19_analysis
-📌 Overview
+📌 Overview:
+
 This project presents an exploratory data analysis (EDA) and visualization of the COVID-19 pandemic across various countries, focusing on infection trends and their possible correlation with World Happiness metrics such as GDP per capita, social support, life expectancy, and more.
 
 Using real-world datasets, we analyze the spread of the virus, compare infection rates among countries, and build regression models to investigate how different socio-economic factors might relate to the severity of the outbreak.
 
-📊 Objectives
+📊 Objectives:
+
 Clean and preprocess global COVID-19 datasets.
 
 Analyze the spread and peak infection rates across countries.
@@ -17,7 +19,8 @@ Visualize findings using scatter plots, line graphs, and regression analysis.
 
 Identify which socio-economic factors may influence infection outcomes.
 
-🔧 Technologies Used
+🔧 Technologies Used:
+
 Python (Data Analysis & Visualization)
 
 Pandas (Data handling)
